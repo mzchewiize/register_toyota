@@ -1,0 +1,13 @@
+.de_icon {
+	font-size:28px !important;
+}
+.title_right{
+	float: right;
+	margin-bottom: 8px;
+}
+.form_custom {
+	margin-top:10px;
+}
+.group_button {
+	text-align: center;
+}
